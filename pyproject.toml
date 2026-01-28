@@ -1,0 +1,14 @@
+[project]
+name = "24janbootcamp"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = "==3.12.*"
+dependencies = [
+    "agent-framework>=1.0.0b251120",
+    "docling>=2.70.0",
+    "langchain-core>=1.2.7",
+    "langchain-text-splitters>=1.1.0",
+    "notebook>=7.5.2",
+    "qdrant-client>=1.16.2",
+    "sentence-transformers>=5.2.0",
+]
